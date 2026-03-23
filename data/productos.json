@@ -69,7 +69,7 @@
         "precio" : "2000",
         "img" : "6.png",
         "cantidad": 0,
-        "tipo": "cerveza",
+        "tipo": "gaseosa",
         "cargando": false
         }
         ,
@@ -80,6 +80,100 @@
         "img" : "7.png",
         "cantidad": 0,
         "tipo": "vodka",
+        "cargando": false
+        },
+        
+
+        {
+        "id": "9",
+        "nombre" : "gaseosa coca-cola 2.15lt",
+        "precio" : "2900",
+        "img" : "img-productos/gaseosas/1.png",
+        "cantidad": 0,
+        "tipo": "gaseosas",
+        "cargando": false
+        },
+        {
+        "id": "10",
+        "nombre" : "gaseosa fanta naranja 2lt retornable",
+        "precio" : "2400",
+        "img" : "img-productos/gaseosas/2.png",
+        "cantidad": 0,
+        "tipo": "gaseosas",
+        "cargando": false
+        },
+        {
+        "id": "11",
+        "nombre" : "gaseosa fanta naranja 2.15lt",
+        "precio" : "2800",
+        "img" : "img-productos/gaseosas/3.png",
+        "cantidad": 0,
+        "tipo": "gaseosas",
+        "cargando": false
+        },
+        {
+        "id": "12",
+        "nombre" : "gaseosa manaos lima limon 2.5lt",
+        "precio" : "1800",
+        "img" : "img-productos/gaseosas/4.png",
+        "cantidad": 0,
+        "tipo": "gaseosas",
+        "cargando": false
+        },
+        {
+        "id": "13",
+        "nombre" : "gaseosa manaos limón intenso 3lt",
+        "precio" : "2300",
+        "img" : "img-productos/gaseosas/5.png",
+        "cantidad": 0,
+        "tipo": "gaseosas",
+        "cargando": false
+        },
+        {
+        "id": "14",
+        "nombre" : "gaseosa secco limón intenso 2.5lt",
+        "precio" : "1800",
+        "img" : "img-productos/gaseosas/6.png",
+        "cantidad": 0,
+        "tipo": "gaseosas",
+        "cargando": false
+        },
+        {
+        "id": "15",
+        "nombre" : "gaseosa secco lima limón 3lt",
+        "precio" : "2200",
+        "img" : "img-productos/gaseosas/7.png",
+        "cantidad": 0,
+        "tipo": "gaseosas",
+        "cargando": false
+        }
+        ,
+        {
+        "id": "16",
+        "nombre" : "gaseosa sprite 1.5lt ",
+        "precio" : "2900",
+        "img" : "img-productos/gaseosas/8.png",
+        "cantidad": 0,
+        "tipo": "gaseosas",
+        "cargando": false
+        }
+        ,
+        {
+        "id": "17",
+        "nombre" : "gaseosa sprite 2lt retornable",
+        "precio" : "2500",
+        "img" : "img-productos/gaseosas/9.png",
+        "cantidad": 0,
+        "tipo": "gaseosas",
+        "cargando": false
+        },
+        {
+        "id": "18",
+        "nombre" : "gaseosa coca-cola 2lt retornable",
+        "precio" : "2500",
+        "img" : "img-productos/gaseosas/10.png",
+        "cantidad": 0,
+        "tipo": "gaseosas",
         "cargando": false
         }
 ]
