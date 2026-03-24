@@ -3,10 +3,13 @@
         "id": "1",
         "nombre" : "cerveza quilmes clásica 473cc pack x6 unidades",
         "precio" : "9675",
+        "precio-por-total": "20.500",
         "img" : "./cerveza.png",
         "cantidad": 0,
         "tipo": "cerveza",
-        "cargando": false
+        "cargando": false,
+        "pack": true,
+        "envase": false
         },
         {
         "id": "2",
