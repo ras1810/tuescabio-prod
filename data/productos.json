@@ -178,5 +178,50 @@
         "cantidad": 0,
         "tipo": "gaseosas",
         "cargando": false
+        },
+        {
+        "id": "19",
+        "nombre" : "vodka sky clasico 75cc",
+        "precio" : "22000",
+        "img" : "img-productos/vodkas/1.png",
+        "cantidad": 0,
+        "tipo": "vodka",
+        "cargando": false
+        },
+        {
+        "id": "20",
+        "nombre" : "vodka new style manzana verde 75cc",
+        "precio" : "16000",
+        "img" : "img-productos/vodkas/2.png",
+        "cantidad": 0,
+        "tipo": "vodka",
+        "cargando": false
+        },
+        {
+        "id": "21",
+        "nombre" : "vodka new style frutos rojos 75cc",
+        "precio" : "22000",
+        "img" : "img-productos/vodkas/3.png",
+        "cantidad": 0,
+        "tipo": "vodka",
+        "cargando": false
+        },
+        {
+        "id": "22",
+        "nombre" : "vodka sky frutos rojos 75cc",
+        "precio" : "24000",
+        "img" : "img-productos/vodkas/4.png",
+        "cantidad": 0,
+        "tipo": "vodka",
+        "cargando": false
+        },
+        {
+        "id": "23",
+        "nombre" : "vodka sky anana 75cc",
+        "precio" : "24000",
+        "img" : "img-productos/vodkas/5.png",
+        "cantidad": 0,
+        "tipo": "vodka",
+        "cargando": false
         }
 ]
