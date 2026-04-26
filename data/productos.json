@@ -1,10 +1,21 @@
-[
+[       {
+        "id": "0",
+        "nombre" : "cerveza imperial golden lata 700cc",
+        "precio" : "9675",
+        "precio-por-total": "24.500",
+        "img" : "img-productos/cervezas/3.png",
+        "cantidad": 0,
+        "tipo": "cerveza",
+        "cargando": false,
+        "pack": true,
+        "envase": false
+        },
        {
         "id": "1",
         "nombre" : "cerveza quilmes clásica 473cc pack x6 unidades",
         "precio" : "9675",
         "precio-por-total": "20.500",
-        "img" : "./cerveza.png",
+        "img" : "img-productos/cervezas/2.png",
         "cantidad": 0,
         "tipo": "cerveza",
         "cargando": false,
@@ -15,7 +26,7 @@
         "id": "2",
         "nombre" : "vino toro tinto en caja 1Lt",
         "precio" : "2200",
-        "img" : "2.png",
+        "img" : "img-productos/vinos/2.png",
         "cantidad": 0,
         "tipo": "vino",
         "cargando": false
@@ -24,7 +35,7 @@
         "id": "3",
         "nombre" : "cerveza quilmes clásica 473cc pack x6 unidades",
         "precio" : "1300",
-        "img" : "./cerveza02.png",
+        "img" : "img-productos/cervezas/1.png",
         "cantidad": 0,
         "tipo": "cerveza",
         "cargando": false
@@ -33,7 +44,7 @@
         "id": "4",
         "nombre" : "vino toro blanco en caja 1lt",
         "precio" : "2000",
-        "img" : "./1.png",
+        "img" : "img-productos/vinos/1.png",
         "cantidad": 0,
         "tipo": "vino",
         "cargando": false
@@ -42,7 +53,7 @@
         "id": "6",
         "nombre" : "fernet branca 75ml",
         "precio" : "22000",
-        "img" : "./4.png",
+        "img" : "img-productos/fernet/1.png",
         "cantidad": 0,
         "tipo": "fernet",
         "cargando": false
@@ -51,7 +62,7 @@
         "id": "7",
         "nombre" : "fernet buhero 75ml",
         "precio" : "20000",
-        "img" : "3.png",
+        "img" : "img-productos/fernet/3.png",
         "cantidad": 0,
         "tipo": "fernet",
         "cargando": false
@@ -60,7 +71,7 @@
         "id": "8",
         "nombre" : "fernet 1882 75ml",
         "precio" : "17000",
-        "img" : "5.png",
+        "img" : "img-productos/fernet/2.png",
         "cantidad": 0,
         "tipo": "fernet",
         "cargando": false
@@ -80,7 +91,7 @@
         "id": "8",
         "nombre" : "vodka smirnoff clasico 75cc",
         "precio" : "20000",
-        "img" : "7.png",
+        "img" : "img-productos/vodkas/7.png",
         "cantidad": 0,
         "tipo": "vodka",
         "cargando": false
