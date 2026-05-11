@@ -78,20 +78,10 @@
         }
         ,
         {
-        "id": "8",
-        "nombre" : "cerveza imperial golden lata 700cc",
-        "precio" : "2000",
-        "img" : "6.png",
-        "cantidad": 0,
-        "tipo": "gaseosa",
-        "cargando": false
-        }
-        ,
-        {
-        "id": "8",
+        "id": "32",
         "nombre" : "vodka smirnoff clasico 75cc",
         "precio" : "20000",
-        "img" : "img-productos/vodkas/7.png",
+        "img" : "img-productos/vodkas/6.png",
         "cantidad": 0,
         "tipo": "vodka",
         "cargando": false
@@ -194,7 +184,7 @@
         "id": "19",
         "nombre" : "vodka sky clasico 75cc",
         "precio" : "22000",
-        "img" : "img-productos/vodkas/1.png",
+        "img" : "img-productos/vodkas/5.png",
         "cantidad": 0,
         "tipo": "vodka",
         "cargando": false
@@ -203,7 +193,7 @@
         "id": "20",
         "nombre" : "vodka new style manzana verde 75cc",
         "precio" : "16000",
-        "img" : "img-productos/vodkas/2.png",
+        "img" : "img-productos/vodkas/1.png",
         "cantidad": 0,
         "tipo": "vodka",
         "cargando": false
@@ -212,7 +202,7 @@
         "id": "21",
         "nombre" : "vodka new style frutos rojos 75cc",
         "precio" : "22000",
-        "img" : "img-productos/vodkas/3.png",
+        "img" : "img-productos/vodkas/2.png",
         "cantidad": 0,
         "tipo": "vodka",
         "cargando": false
@@ -221,7 +211,7 @@
         "id": "22",
         "nombre" : "vodka sky frutos rojos 75cc",
         "precio" : "24000",
-        "img" : "img-productos/vodkas/4.png",
+        "img" : "img-productos/vodkas/3.png",
         "cantidad": 0,
         "tipo": "vodka",
         "cargando": false
@@ -230,9 +220,82 @@
         "id": "23",
         "nombre" : "vodka sky anana 75cc",
         "precio" : "24000",
-        "img" : "img-productos/vodkas/5.png",
+        "img" : "img-productos/vodkas/4.png",
         "cantidad": 0,
         "tipo": "vodka",
         "cargando": false
+        },
+        {
+        "id": "24",
+        "nombre" : "energizante speed unlimited lata 473ml",
+        "precio" : "3500",
+        "img" : "img-productos/energizantes/1.png",
+        "cantidad": 0,
+        "tipo": "energizante",
+        "cargando": false
+        },
+        {
+        "id": "25",
+        "nombre" : "bebida energizante monster energy 500ml",
+        "precio" : "3099",
+        "img" : "img-productos/energizantes/3.png",
+        "cantidad": 0,
+        "tipo": "energizante",
+        "cargando": false
+        },
+        {
+        "id": "26",
+        "nombre" : "bebida energizante monster energy ultra zero 500ml",
+        "precio" : "3200",
+        "img" : "img-productos/energizantes/4.png",
+        "cantidad": 0,
+        "tipo": "energizante",
+        "cargando": false
+        },
+        {
+        "id": "27",
+        "nombre" : "bebida energizante monster energy mango 473ml",
+        "precio" : "3200",
+        "img" : "img-productos/energizantes/2.png",
+        "cantidad": 0,
+        "tipo": "energizante",
+        "cargando": false
+        },
+        {
+        "id": "28",
+        "nombre" : "jugo ceppita sabor naranja",
+        "precio" : "10000",
+        "img" : "img-productos/jugos/2.png",
+        "cantidad": 0,
+        "tipo": "jugo",
+        "cargando": false
+        },
+        {
+        "id": "29",
+        "nombre" : "jugo ceppita sabor durazno",
+        "precio" : "10000",
+        "img" : "img-productos/jugos/1.png",
+        "cantidad": 0,
+        "tipo": "jugo",
+        "cargando": false
+        },
+        {
+        "id": "30",
+        "nombre" : "ron clasico blanco bacardi",
+        "precio" : "40000",
+        "img" : "img-productos/ron/1.png",
+        "cantidad": 0,
+        "tipo": "ron",
+        "cargando": false
+        },
+        {
+        "id": "30",
+        "nombre" : "ron dorado bacardi",
+        "precio" : "80000",
+        "img" : "img-productos/ron/2.png",
+        "cantidad": 0,
+        "tipo": "ron",
+        "cargando": false
         }
+
 ]
