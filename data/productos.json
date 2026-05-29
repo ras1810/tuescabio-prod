@@ -1,7 +1,7 @@
 [       {
         "id": "0",
-        "nombre" : "cerveza imperial golden lata 700cc",
-        "precio" : "9675",
+        "nombre" : "cerveza imperial rubia en lata 473 cc",
+        "precio" : "2300",
         "precio-por-total": "24.500",
         "img" : "img-productos/cervezas/3.png",
         "cantidad": 0,
@@ -10,10 +10,82 @@
         "pack": true,
         "envase": false
         },
+        {
+        "id": "100",
+        "nombre" : "cerveza quilmes rubia en botella 1 lt",
+        "precio" : "2400",
+        "precio-por-total": "0",
+        "img" : "img-productos/cervezas/4.png",
+        "cantidad": 0,
+        "tipo": "cerveza",
+        "cargando": false,
+        "pack": false,
+        "envase": true
+        },
+        {
+        "id": "101",
+        "nombre" : "cerveza schneider rubia en botella 1 lt",
+        "precio" : "2200",
+        "precio-por-total": "0",
+        "img" : "img-productos/cervezas/5.png",
+        "cantidad": 0,
+        "tipo": "cerveza",
+        "cargando": false,
+        "pack": false,
+        "envase": true
+        },
+        {
+        "id": "102",
+        "nombre" : "cerveza patagonia amber lager en botella 75 cc",
+        "precio" : "6800",
+        "precio-por-total": "0",
+        "img" : "img-productos/cervezas/6.png",
+        "cantidad": 0,
+        "tipo": "cerveza",
+        "cargando": false,
+        "pack": false,
+        "envase": true
+        },
+        {
+        "id": "103",
+        "nombre" : "cerveza patagonia 24.7 en botella 75 cc",
+        "precio" : "6800",
+        "precio-por-total": "0",
+        "img" : "img-productos/cervezas/7.png",
+        "cantidad": 0,
+        "tipo": "cerveza",
+        "cargando": false,
+        "pack": false,
+        "envase": true
+        },
+        {
+        "id": "104",
+        "nombre" : "cerveza scheneider rubia en lata 473 cc",
+        "precio" : "2600",
+        "precio-por-total": "0",
+        "img" : "img-productos/cervezas/8.png",
+        "cantidad": 0,
+        "tipo": "cerveza",
+        "cargando": false,
+        "pack": false,
+        "envase": true
+        },
+        {
+        "id": "105",
+        "nombre" : "cerveza patagonia honey en lata 473 cc",
+        "precio" : "4200",
+        "precio-por-total": "0",
+        "img" : "img-productos/cervezas/9.png",
+        "cantidad": 0,
+        "tipo": "cerveza",
+        "cargando": false,
+        "pack": false,
+        "envase": true
+        },
        {
         "id": "1",
-        "nombre" : "cerveza quilmes clásica 473cc pack x6 unidades",
-        "precio" : "9675",
+        "nombre" : "cerveza quilmes clásica rubia en lata 473cc",
+        "precio" : "2500",
         "precio-por-total": "20.500",
         "img" : "img-productos/cervezas/2.png",
         "cantidad": 0,
@@ -32,9 +104,45 @@
         "cargando": false
         },
         {
+        "id": "65",
+        "nombre" : "vino viña de balbo tinto en botella 1 Lt",
+        "precio" : "2600",
+        "img" : "img-productos/vinos/3.png",
+        "cantidad": 0,
+        "tipo": "vino",
+        "cargando": false
+        },
+        {
+        "id": "66",
+        "nombre" : "vino viña de balbo blanco en botella 1 lt",
+        "precio" : "2200",
+        "img" : "img-productos/vinos/4.png",
+        "cantidad": 0,
+        "tipo": "vino",
+        "cargando": false
+        },
+        {
+        "id": "67",
+        "nombre" : "vino toro viejo en botella 75 cc",
+        "precio" : "2800",
+        "img" : "img-productos/vinos/5.png",
+        "cantidad": 0,
+        "tipo": "vino",
+        "cargando": false
+        },
+        {
+        "id": "68",
+        "nombre" : "vino toro viejo en botella 1 lt",
+        "precio" : "3200",
+        "img" : "img-productos/vinos/6.png",
+        "cantidad": 0,
+        "tipo": "vino",
+        "cargando": false
+        },
+        {
         "id": "3",
-        "nombre" : "cerveza quilmes clásica 473cc pack x6 unidades",
-        "precio" : "1300",
+        "nombre" : "cerveza salta negra en lata  473 cc",
+        "precio" : "2700",
         "img" : "img-productos/cervezas/1.png",
         "cantidad": 0,
         "tipo": "cerveza",
