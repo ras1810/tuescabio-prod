@@ -404,6 +404,43 @@
         "cantidad": 0,
         "tipo": "ron",
         "cargando": false
+        },
+        {
+        "id": "003001",
+        "nombre" : "bon o bon bañado en chocolate negro",
+        "precio" : "2300",
+        "img" : "img-productos/golosinas/bon-o-bon.png",
+        "cantidad": 0,
+        "tipo": "golosina",
+        "cargando": false
+        },
+        {
+        "id": "004001",
+        "nombre" : "papas en bolsa tafi 2100gr",
+        "precio" : "2600",
+        "img" : "img-productos/snacks/papas-tafi.png",
+        "cantidad": 0,
+        "tipo": "snack",
+        "cargando": false
+        },
+        {
+        "id": "004001",
+        "nombre" : "papas en bolsa tafi crema y cebolla 2100gr",
+        "precio" : "2600",
+        "img" : "img-productos/snacks/papas-tafi-crema-y-cebolla.png",
+        "cantidad": 0,
+        "tipo": "snack",
+        "cargando": false
+        },
+        {
+        "id": "005001",
+        "nombre" : "hielo en bolsa de 3kg",
+        "precio" : "2300",
+        "img" : "img-productos/hielos/hielo-3kg.png",
+        "cantidad": 0,
+        "tipo": "hielo",
+        "cargando": false
         }
+
 
 ]
